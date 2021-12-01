@@ -1,5 +1,7 @@
-.App {
+* {
   text-align: center;
+  background-color: #282c34;
+  font-family: "Montserrat SemiBold", sans-serif;
 }
 
 .App-logo {
@@ -36,3 +38,33 @@
     transform: rotate(360deg);
   }
 }
+
+header {
+  background-color: #11556a;
+  color: #61dafb;
+  font-size: 62pt;
+}
+
+.mainContent {
+  color: aliceblue;
+  width: 80%;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.card {
+  height: 400px;
+  width: 220px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.image {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+
