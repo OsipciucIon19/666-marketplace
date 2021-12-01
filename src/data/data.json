@@ -1,67 +1,67 @@
 [
-  {
-    "id": "1",
-    "title": "Lexus LS Series",
-    "description": "Lexus LS V500 3.5 Twin Turbo (421 hp) 2018",
-    "price": 40000,
-    "views": 3,
-    "category": "cars",
-    "images": [
-      "/sample_img.jpg",
-      "/sample_img.jpg",
-      "/sample_img.jpg"
-    ]
-  },
-  {
-    "id": "2",
-    "title": "Renault Scenic, 2006",
-    "description": "Pentru detalii sunati. La cumparator real pretul se discuta la capota",
-    "price": 3499,
-    "views": 20,
-    "category": "cars",
-    "images": [
-      "/sample_img.jpg",
-      "/sample_img.jpg",
-      "/sample_img.jpg"
-    ]
-  },
-  {
-    "id": "3",
-    "title": "testTitle",
-    "description": "testDescription",
-    "price": 1,
-    "views": 3,
-    "category": "testCategory",
-    "images": [
-      "/sample_img.jpg",
-      "/sample_img.jpg",
-      "/sample_img.jpg"
-    ]
-  },
-  {
-    "id": "4",
-    "title": "testTitle",
-    "description": "testDescription",
-    "price": 1,
-    "views": 3,
-    "category": "testCategory",
-    "images": [
-      "/sample_img.jpg",
-      "/sample_img.jpg",
-      "/sample_img.jpg"
-    ]
-  },
-  {
-    "id": "5",
-    "title": "testTitle",
-    "description": "testDescription",
-    "price": 1,
-    "views": 3,
-    "category": "testCategory",
-    "images": [
-      "/sample_img.jpg",
-      "/sample_img.jpg",
-      "/sample_img.jpg"
-    ]
-  }
-]
+    {
+      "id": "1",
+      "title": "Lexus LS Series",
+      "description": "Lexus LS V500 3.5 Twin Turbo (421 hp) 2018",
+      "price": 40000,
+      "views": 3,
+      "category": "cars",
+      "images": [
+        "/sample_img.jpg",
+        "/sample_img.jpg",
+        "/sample_img.jpg"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Renault Scenic, 2006",
+      "description": "Pentru detalii sunati. La cumparator real pretul se discuta la capota",
+      "price": 3499,
+      "views": 20,
+      "category": "cars",
+      "images": [
+        "/sample_img.jpg",
+        "/sample_img.jpg",
+        "/sample_img.jpg"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "testTitle",
+      "description": "testDescription",
+      "price": 1,
+      "views": 3,
+      "category": "testCategory",
+      "images": [
+        "/sample_img.jpg",
+        "/sample_img.jpg",
+        "/sample_img.jpg"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "testTitle",
+      "description": "testDescription",
+      "price": 1,
+      "views": 3,
+      "category": "testCategory",
+      "images": [
+        "/sample_img.jpg",
+        "/sample_img.jpg",
+        "/sample_img.jpg"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "testTitle",
+      "description": "testDescription",
+      "price": 1,
+      "views": 3,
+      "category": "testCategory",
+      "images": [
+        "/sample_img.jpg",
+        "/sample_img.jpg",
+        "/sample_img.jpg"
+      ]
+    }
+  ]
